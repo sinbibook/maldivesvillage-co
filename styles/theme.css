@@ -4,8 +4,8 @@
 
 /* Font Faces */
 @font-face {
-  font-family: 'Aritaburi';
-  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Arita-buri-SemiBold.woff') format('woff');
+  font-family: 'GyeonggiMillenniumBackground';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2410-3@1.0/Batang_Regular.woff') format('woff');
   font-weight: 400;
   font-display: swap;
 }
@@ -19,7 +19,7 @@
 
 /* CSS Variables */
 :root {
-  --font-ko-main: 'Aritaburi', sans-serif;
+  --font-ko-main: 'GyeonggiMillenniumBackground', sans-serif;
   --font-ko-sub: 'Pretendard', sans-serif;
   --font-en-main: 'Cormorant', sans-serif;
   --color-primary: #ecebe8;
