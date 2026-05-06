@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-05-04T08:36:50.259381523Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-05-06T00:31:55.759074323Z",
     "templateType": "fullpage_visual",
     "propertyId": "0135b7e1-254c-4a7e-9ebf-4cb29ca7ae4d",
     "homepageId": "2f37140f-e568-49fa-949a-dc9e5d605166"
@@ -2356,7 +2356,107 @@
       },
       "property": {
         "name": "춘천 남이섬 몰디브 애견 리조트",
-        "images": [ ],
+        "images": [
+          {
+            "id": "561c61f5-e012-4211-9132-b90648fdf3ce",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/2f37140f-e568-49fa-949a-dc9e5d605166/property_thumbnail/1778027505380-nczd79lmzx.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_thumbnail"
+          },
+          {
+            "id": "a65d6711-b6ff-4c31-ba4b-a23d36142ca0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/2f37140f-e568-49fa-949a-dc9e5d605166/property_exterior/1778027505280-snazs4mvxm.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "35fb4161-e786-4a54-8733-0f1523b1ad66",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/2f37140f-e568-49fa-949a-dc9e5d605166/property_exterior/1778027505383-jlpr9vwi6b.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "c241ed61-c061-45c8-ae56-effbd6e03b9f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/2f37140f-e568-49fa-949a-dc9e5d605166/property_exterior/1778027505386-3z4uy97wvc.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "d64ea1ac-6f40-464e-a744-8e604ce7de0e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/2f37140f-e568-49fa-949a-dc9e5d605166/property_exterior/1778027505477-lnkixkd8v6.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "441f09ea-163c-49e6-91a4-f0105f0fd366",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/2f37140f-e568-49fa-949a-dc9e5d605166/property_exterior/1778027505472-s2p27hqaby.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "0705fca3-ae35-4f74-b253-2fd518d9a068",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/2f37140f-e568-49fa-949a-dc9e5d605166/property_exterior/1778027505477-2ohnowgfjx.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "1557886b-5d57-45e4-8a22-684c2211eb97",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/2f37140f-e568-49fa-949a-dc9e5d605166/property_exterior/1778027505472-0313fq1gw7.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "14df7910-d2fe-421f-b83d-ee08474cf23f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/2f37140f-e568-49fa-949a-dc9e5d605166/property_exterior/1778027505385-5asl9kl5yp.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "720ff827-a063-4451-87ab-61023220bc44",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/2f37140f-e568-49fa-949a-dc9e5d605166/property_exterior/1778027505474-8y8fqdjntt.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "fb2b6e28-d24c-4f9b-baaa-05bd50b30363",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/2f37140f-e568-49fa-949a-dc9e5d605166/property_exterior/1778027505282-x3s1acguuy.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          }
+        ],
         "nameEn": "Chuncheon Nami Island Maldives Resort"
       },
       "roomtypes": [
