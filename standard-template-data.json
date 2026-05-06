@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-05-06T03:16:07.723088497Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-05-06T03:59:53.779033450Z",
     "templateType": "fullpage_visual",
     "propertyId": "0135b7e1-254c-4a7e-9ebf-4cb29ca7ae4d",
     "homepageId": "2f37140f-e568-49fa-949a-dc9e5d605166"
@@ -2020,7 +2020,7 @@
           "sections": [
             {
               "hero": {
-                "title": "Serene Escape at Chuncheon Sull Resort",
+                "title": "Serene Escape at maldives Resort",
                 "images": [
                   {
                     "id": "08d152b6-d4ad-4691-b7f9-5d61c3abe576",
@@ -2428,7 +2428,7 @@
         "color": null
       },
       "property": {
-        "name": "춘천 남이섬 몰디브 애견 리조트",
+        "name": "남이섬 몰디브 애견 리조트",
         "images": [
           {
             "id": "561c61f5-e012-4211-9132-b90648fdf3ce",
