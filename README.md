@@ -1,1 +1,1 @@
-# maldivesvillage-co
+# template-fullpage-visual
